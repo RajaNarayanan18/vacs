@@ -1,1 +1,16 @@
 welcome to 2nd day from raja
+
+
+git remote add origin https://github.com/RajaNarayanan18/vacs.git
+git branch -M main
+git push -u origin main
+
+
+
+echo "# vacs" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/RajaNarayanan18/vacs.git
+git push -u origin main
